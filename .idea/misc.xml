@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/activity_main.xml" value="0.1105072463768116" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/fragment_admin.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/fragment_coments.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/fragment_order.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/fragment_order_detail_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/layout/item_product.xml" value="0.1" />
+        <entry key="..\:/Users/Dan020/AndroidStudioProjects/TiendaDonEmilioP67-main/app/src/main/res/menu/bnv_menu.xml" value="0.1671875" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/activity_main.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/activity_splash_screen.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_admin.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_admin_detail_dialog.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_coments.xml" value="0.264" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_coments_detail_dialog.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_home.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_order.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/fragment_order_detail_dialog.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/item_comments.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/layout/item_product.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/usuario1/AndroidStudioProjects/TiendaDonEmilioP67/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.32916666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
